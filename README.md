@@ -1,3 +1,3 @@
 # Demo
 
-Put some description
+Put some description. I am just learning how to use GitHub properly
